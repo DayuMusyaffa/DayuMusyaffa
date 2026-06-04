@@ -48,7 +48,10 @@ const Dayu: Developer = {
 };
 ```
 ---
+
 <img src="./assets/preview.gif" width="350"/>
+<img src="./assets/preview.gif" width="350"/>
+
 ---
 
 ## ⚡ Tech Stack
