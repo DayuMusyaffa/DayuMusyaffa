@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dayu%20Musyaffa&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20Information%20Systems&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dayu%20Musyaffa&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20&%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20Information%20Systems&descAlignY=55&descSize=18"/>
 
 <!-- TYPING SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%9A%80+Building+Modern+Web+Experiences;%F0%9F%8E%A8+Passionate+About+UI%2FUX+Design;%E2%9A%A1+Always+Learning+New+Technologies;%F0%9F%8C%90+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
@@ -23,7 +23,7 @@
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
 <img src="https://komarev.com/ghpvc/?username=DayuMusyaffa&label=Profile+Views&color=0891b2&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/DayuMusyaffa?label=Followers&style=flat-square&color=0891b2"/>
+
 
 </div>
 
@@ -78,8 +78,13 @@ const Dayu: Developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DayuMusyaffa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayuMusyaffa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10"/>
+<!-- Stats + Languages row (mirrors the reference: stats left, languages right) -->
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=DayuMusyaffa&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true" />
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayuMusyaffa&layout=pie&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
+</div>
+<div align="center">
+<!-- Streak row — matching the 3-column card in the reference image -->
+<img src="https://streak-stats.demolab.com?user=DayuMusyaffa&theme=transparent&hide_border=true&background=0D1117&stroke=1c2a3a&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=8b949e&dates=8b949e&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=10&card_width=700" />
 </div>
 
 <br/>
