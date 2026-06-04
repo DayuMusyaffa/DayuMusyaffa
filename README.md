@@ -80,11 +80,11 @@ const Dayu: Developer = {
 <div align="center">
 <!-- Stats card — github-readme-stats (primary) -->
 <a href="https://github.com/DayuMusyaffa">
-  <img height="180em" src="https://github-readme-stats-git-main-anurag90s.vercel.app/api?username=DayuMusyaffa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-git-main-herokuapp.com?username=DayuMusyaffa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
 <!-- Top Languages — compact layout (most compatible) -->
 <a href="https://github.com/DayuMusyaffa">
-  <img height="180em" src="https://github-readme-stats-git-main-anurag90s.vercel.app/api/top-langs/?username=DayuMusyaffa&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-git-main-herokuapp.com/top-langs/?username=DayuMusyaffa&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </a>
 </div>
 <br/>
