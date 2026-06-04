@@ -32,11 +32,11 @@
 ## 🧑‍💻 `whoami`
 
 ```typescript
-const dayu: Developer = {
+const Dayu: Developer = {
   name:         "Dayu Musyaffa",
   location:     "Indonesia 🇮🇩",
   education:    "Information Systems",
-  role:         "Frontend Developer & UI/UX Enthusiast",
+  role:         "Frontend/Backend Developer & UI/UX Enthusiast",
 
   expertise:    ["Frontend Development", "UI/UX Design", "Web Technologies"],
 
@@ -47,7 +47,8 @@ const dayu: Developer = {
   quote:        "Turning ideas into digital experiences ✨",
 };
 ```
-
+---
+<img src="./assets/preview.gif" width="350"/>
 ---
 
 ## ⚡ Tech Stack
@@ -86,14 +87,6 @@ const dayu: Developer = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DayuMusyaffa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DayuMusyaffa&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10"/>
 </div>
 
 ---
