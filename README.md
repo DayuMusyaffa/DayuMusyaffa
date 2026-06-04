@@ -38,7 +38,7 @@ const Dayu: Developer = {
   education:    "Information Systems",
   role:         "Frontend/Backend Developer & UI/UX Enthusiast",
 
-  expertise:    ["Frontend Development", "UI/UX Design", "Web Technologies"],
+  expertise:    ["Frontend & Backend Development", "UI/UX Design", "Web Technologies"],
 
   currentlyLearning: ["React ⚛️", "Next.js 🔺", "Tailwind CSS 🌊", "Laravel 🔴"],
 
@@ -48,12 +48,12 @@ const Dayu: Developer = {
 };
 ```
 ---
-
+<br/>
 <div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
   <img src="./assets/preview.gif" width="350"/>
   <img src="./assets/preview.gif" width="350" style="transform: scaleX(-1);"/>
 </div>
-
+<br/>
 ---
 
 ## ⚡ Tech Stack
