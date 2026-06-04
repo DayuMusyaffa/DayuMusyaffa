@@ -101,7 +101,7 @@ const Dayu: Developer = {
 <br/>
 <div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
   <img src="./assets/preview.gif" width="350"/>
-  <img src="./assets/lums-lumina-lums.gif" width="350" style="transform: scaleX(-1);"/>
+  <img src="./assets/foxy-foxplushy.gif" width="350" style="transform: scaleX(-1);"/>
 </div>
 <br/>
 
