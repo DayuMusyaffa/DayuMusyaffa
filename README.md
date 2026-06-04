@@ -78,14 +78,21 @@ const Dayu: Developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-<!-- Stats card -->
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=DayuMusyaffa&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" />
-<!-- Top Languages card — donut layout, widely supported -->
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayuMusyaffa&layout=donut&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
+<!-- Stats card — github-readme-stats (primary) -->
+<a href="https://github.com/DayuMusyaffa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DayuMusyaffa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
+<!-- Top Languages — compact layout (most compatible) -->
+<a href="https://github.com/DayuMusyaffa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayuMusyaffa&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</a>
 </div>
+<br/>
 <div align="center">
-<!-- Streak card — use only supported theme preset, no conflicting custom params -->
-<img src="https://streak-stats.demolab.com?user=DayuMusyaffa&theme=tokyonight-duo&hide_border=true&border_radius=10" />
+<!-- Streak stats — github-readme-streak-stats (most stable provider) -->
+<a href="https://github.com/DayuMusyaffa">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DayuMusyaffa&theme=tokyonight&hide_border=true" />
+</a>
 </div>
 
 <br/>
