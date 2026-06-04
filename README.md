@@ -49,8 +49,10 @@ const Dayu: Developer = {
 ```
 ---
 
-<img src="./assets/preview.gif" width="350"/>
-<img src="./assets/preview.gif" width="350"/>
+<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+  <img src="./assets/preview.gif" width="350"/>
+  <img src="./assets/preview.gif" width="350" style="transform: scaleX(-1);"/>
+</div>
 
 ---
 
