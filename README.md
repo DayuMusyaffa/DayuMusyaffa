@@ -85,14 +85,6 @@ const Dayu: Developer = {
 
 </div>
 <br/>
-<div align="center">
-<!-- Streak stats — github-readme-streak-stats (most stable provider) -->
-<a href="https://github.com/DayuMusyaffa">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DayuMusyaffa&theme=tokyonight&hide_border=true" />
-</a>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DayuMusyaffa&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border_radius=10" />
